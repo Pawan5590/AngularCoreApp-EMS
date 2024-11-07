@@ -6,7 +6,7 @@ Contact Management Application using ASP.NET Core, Angular 13.0, Angular Materia
 Angular <br />
 
 ### Setup Project
-git clone 
+git clone https://github.com/Pawan5590/AngularApp.git
 
 ### Update Connectionstring in Appsettings.json file
  "ConnectionStrings": {
