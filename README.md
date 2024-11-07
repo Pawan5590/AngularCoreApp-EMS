@@ -1,5 +1,5 @@
-# Contact Application
-Contact Application using ASP.NET Core, Angular 13.0, Angular Material UI and Visual Studio. 
+# Contact Management Application
+Contact Management Application using ASP.NET Core, Angular 13.0, Angular Material UI and Visual Studio. 
 
 ### Prerequisite 
 .Net Core <br />
