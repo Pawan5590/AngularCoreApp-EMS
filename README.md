@@ -8,10 +8,6 @@ Angular <br />
 ### Setup Project
 git clone 
 
-### install npm packages and restore dotnet nuget packages in command prompt:
-npm install <br />
-dotnet restore  
-
 ### Update Connectionstring in Appsettings.json file
  "ConnectionStrings": {
     "ContactDb": "Data Source=.\\SQLEXPRESS;Initial Catalog=ContactDb;Integrated Security=True"
