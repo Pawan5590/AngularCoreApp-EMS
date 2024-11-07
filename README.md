@@ -8,7 +8,7 @@ Angular <br />
 ### Setup Project
 git clone 
 
-### install npm packages and restore dotnet nuget pakages in command promt:
+### install npm packages and restore dotnet nuget packages in command prompt:
 npm install <br />
 dotnet restore  
 
